@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/config/rolSelBox.java" line="95" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4624197f-a067-4ed3-a8fd-0397a70a598d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MalleBot$Main.ic" NAME="Main Coverage Results" MODIFIED="1544827842912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>co.malle.bot.main.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="55" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="88422904">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="24" />
+          <entry key="java" value="5007" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="5007" />
+          <entry key="PLAIN_TEXT" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/rolemanagement/RoleAdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/rolemanagement/RankingSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>discordID</find>
+      <find>discord</find>
+      <find>554791796618821664L</find>
+      <find>ra</find>
+      <find>waiter</find>
+      <find>getDis</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utils/SetupCompCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/About.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/Info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/Purge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/RoleID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/rolSelBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/Suggest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/events/SetupCompCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/embeds/Welcome.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/embeds/Error.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/embeds/Fields.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/user/Info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/events/SetupCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utils/PurgeMsgs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/dev/RoleID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/events/MemberJoin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/embeds/Basic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/user/Suggest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/op/rolSelBox.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/PurgeMsgs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/user/Purge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/purging/PurgeMsgs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/user/Invite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/user/About.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/tools/Purge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/embeds/Basic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/invitations/InvRewards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/economy/Invite.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/coins/InvRewards.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/data/Credentials.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/data/MongoConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/CmdArgGetter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/JoinGuildRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/coins/Invitations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/UserJoinDataSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/BotJoinDataSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/JoinDataSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/JoinLeaveDataSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/ChangeDataSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/joining/MemberJoin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/UpdateGuildSync.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/coins/InvitationReward.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/coins/MessagingReward.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/commands/economy/Coins.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/coins/RankingSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/ranking/RankingSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/notifications/RoleAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/rolemanagement/RoleAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/economy/InvitationReward.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/rolemanagement/RankingSystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/butler/bot/main/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="23" />
+    <option name="width" value="1404" />
+    <option name="height" value="836" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="economy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="rolemanagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="converters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ButlerBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ButlerBot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bot" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+              <item name="embeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/chris/Dropbox/JAVA Projects/MalleBot/src/co/malle/bot/embeds/Error.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558976333941" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.butler.bot.frameworks.coins" />
+      <recent name="com.butler.bot.frameworks.database" />
+      <recent name="com.butler.bot.commands.economy" />
+      <recent name="com.butler.bot.commands.user" />
+      <recent name="com.thesix.bot.commands" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\Dropbox\Code Playground\Java [IntelliJ &amp; Eclipse]\TheSixBot\src\main\resources" />
+      <recent name="C:\Users\chris\Dropbox\Code Playground\Java [IntelliJ &amp; Eclipse]\VarsityBotEDU\src\main\resources\config" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.butler.bot.main.Main" />
+      <module name="ButlerBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.malle.bot.embeds.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" factoryName="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Java Scratch.Scratch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Java Scratch.Scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4624197f-a067-4ed3-a8fd-0397a70a598d" name="Default Changelist" comment="" />
+      <created>1544824176184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544824176184</updated>
+      <workItem from="1544824178684" duration="14578000" />
+      <workItem from="1544838917386" duration="10380000" />
+      <workItem from="1545174572543" duration="272000" />
+      <workItem from="1545174865674" duration="1978000" />
+      <workItem from="1545279403947" duration="1089000" />
+      <workItem from="1545318363724" duration="2466000" />
+      <workItem from="1545668886692" duration="42000" />
+      <workItem from="1545675125799" duration="270000" />
+      <workItem from="1545758879291" duration="12431000" />
+      <workItem from="1545777197174" duration="412000" />
+      <workItem from="1545783312447" duration="7856000" />
+      <workItem from="1545793760355" duration="3278000" />
+      <workItem from="1545803663026" duration="2099000" />
+      <workItem from="1545851199165" duration="524000" />
+      <workItem from="1545862165226" duration="5240000" />
+      <workItem from="1545960639199" duration="106000" />
+      <workItem from="1545963954188" duration="736000" />
+      <workItem from="1546275792297" duration="2468000" />
+      <workItem from="1546462957690" duration="2345000" />
+      <workItem from="1546474941378" duration="2244000" />
+      <workItem from="1546477792511" duration="210000" />
+      <workItem from="1546481361874" duration="20000" />
+      <workItem from="1546491168049" duration="650000" />
+      <workItem from="1546491878667" duration="1759000" />
+      <workItem from="1547575641450" duration="597000" />
+      <workItem from="1551911497848" duration="18260000" />
+      <workItem from="1552006142426" duration="776000" />
+      <workItem from="1552083472135" duration="15514000" />
+      <workItem from="1552320229577" duration="2155000" />
+      <workItem from="1552322410278" duration="15999000" />
+      <workItem from="1552352662251" duration="2900000" />
+      <workItem from="1552356048491" duration="5625000" />
+      <workItem from="1552363570819" duration="427000" />
+      <workItem from="1552398793643" duration="4062000" />
+      <workItem from="1552439361081" duration="3755000" />
+      <workItem from="1552445189185" duration="9499000" />
+      <workItem from="1552486633815" duration="16794000" />
+      <workItem from="1552511385252" duration="14138000" />
+      <workItem from="1552573761767" duration="5958000" />
+      <workItem from="1552616218110" duration="2651000" />
+      <workItem from="1552623231506" duration="41962000" />
+      <workItem from="1552859461137" duration="14019000" />
+      <workItem from="1552883970207" duration="1736000" />
+      <workItem from="1553013766591" duration="4869000" />
+      <workItem from="1553019753462" duration="1995000" />
+      <workItem from="1553033119730" duration="121000" />
+      <workItem from="1553041170643" duration="444000" />
+      <workItem from="1553050897590" duration="3925000" />
+      <workItem from="1553214853935" duration="80000" />
+      <workItem from="1553218464218" duration="306000" />
+      <workItem from="1553295111187" duration="868000" />
+      <workItem from="1556674092328" duration="630000" />
+      <workItem from="1556716720671" duration="1885000" />
+      <workItem from="1556729394149" duration="3170000" />
+      <workItem from="1556746909577" duration="1613000" />
+      <workItem from="1556759193784" duration="5344000" />
+      <workItem from="1556898575651" duration="1657000" />
+      <workItem from="1557070953699" duration="223000" />
+      <workItem from="1557071192353" duration="117000" />
+      <workItem from="1557281370100" duration="1018000" />
+      <workItem from="1557326618518" duration="16442000" />
+      <workItem from="1557350162053" duration="2087000" />
+      <workItem from="1557460389504" duration="329000" />
+      <workItem from="1557497713889" duration="3951000" />
+      <workItem from="1557538972494" duration="4601000" />
+      <workItem from="1557940677128" duration="20727000" />
+      <workItem from="1558119495772" duration="15668000" />
+      <workItem from="1558202135901" duration="5718000" />
+      <workItem from="1558236242342" duration="2084000" />
+      <workItem from="1558299013533" duration="156000" />
+      <workItem from="1558641629918" duration="1342000" />
+      <workItem from="1558645210578" duration="22900000" />
+      <workItem from="1558708400818" duration="1191000" />
+      <workItem from="1558803387311" duration="10185000" />
+      <workItem from="1558848192723" duration="4853000" />
+      <workItem from="1558890424179" duration="15557000" />
+      <workItem from="1558917363723" duration="18388000" />
+      <workItem from="1558964148769" duration="8685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="472181000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="836" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21745351" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32258064" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.34139785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.10632571" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5028612" side_tool="true" weight="0.22647703" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49867198" weight="0.1438172" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32949308" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3252688" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.1733871" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32882273" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.10632571" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5028612" side_tool="true" weight="0.22647703" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49867198" weight="0.1438172" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32904148" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32949308" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/varsityedu/bot/commands/EmoteID.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/varsityedu/bot/tools/EmoteToID.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jagrosh/jda-utilities-commons/2.1.5/jda-utilities-commons-2.1.5.jar!/com/jagrosh/jdautilities/commons/waiter/EventWaiter.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/HTML/EmailStructure.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/varsityedu/bot/resources.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/credentials.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/commands/Setup.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/data/MongoConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/commands/Verify.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/HTML/EmailSend.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/menus/RoleSelection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/schools/UniInfoMaps.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/utils/KeyGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/data/RoleArrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/commands/User.java" />
+    <entry file="jar://$PROJECT_DIR$/../Dependencies/DISCORD BOT DEPS/JDA-3.8.0_433-withDependencies.jar!/net/dv8tion/jda/core/managers/GuildController.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thesix/bot/commands/Poll.java" />
+    <entry file="file://$PROJECT_DIR$/ButlerBot.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/data/EmoteArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/data/BulkMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/embeds/Welcome.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/embeds/Fields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/embeds/Error.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="51" column="94" selection-start-line="51" selection-start-column="94" selection-end-line="51" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/user/Suggest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="131" column="156" selection-start-line="131" selection-start-column="156" selection-end-line="131" selection-end-column="156" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/converters/TagToID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utils/PollMsg.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/converters/TagToRole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/purging/PurgeMsgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/general/About.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/general/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/embeds/Basic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="976">
+          <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/economy/Invite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/CmdArgGetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/data/MongoConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/utilities/data/Credentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/UserJoinDataSync.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/verification/SetupCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/UpdateGuildSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/database/JoinLeaveDataSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-560">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/config/rolSelBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="93" column="109" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/tools/Purge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="61" selection-end-column="166" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/tools/RoleID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="48" column="8" lean-forward="true" selection-start-line="48" selection-start-column="8" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/economy/MessagingReward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/rolemanagement/RoleAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/notifications/MemberJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/commands/economy/Coins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1612">
+          <caret line="162" column="52" selection-start-line="162" selection-start-column="52" selection-end-line="162" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/economy/InvitationReward.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="99" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/frameworks/rolemanagement/RankingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/butler/bot/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>TheSixBot:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ButlerBot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>JDA-3.8.0_423-sources</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jagrosh:jda-utilities:LATEST">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jagrosh/jda-utilities/LATEST/jda-utilities-LATEST.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jagrosh/jda-utilities/LATEST/jda-utilities-LATEST-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jagrosh/jda-utilities/LATEST/jda-utilities-LATEST-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
